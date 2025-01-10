@@ -1,2 +1,5 @@
 opencv-python-headless
 pydicom
+scikit-learn
+numpy
+streamlit
